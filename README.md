@@ -1,4 +1,4 @@
-# Arabic Text Classification with NLP and RNNs
+# Arabic Text Classification with NLP 
 
 ## Overview
 This project aims to perform Arabic text classification using Natural Language Processing (NLP) techniques and Recurrent Neural Networks (RNNs). The project involves collecting data from various Arabic websites, preprocessing the data, building RNN-based models, and evaluating their performance using standard classification metrics.
